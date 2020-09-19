@@ -1,0 +1,12 @@
+h1. Textile test
+
+# with
+# some
+** more
+*** or
+** less
+# *random*
+
+----
+
+h2.  formatting

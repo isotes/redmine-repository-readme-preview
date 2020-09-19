@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+ <path style="stroke:#f00;stroke-width:6;fill:none" d="M32,32v64h64v-64"/>
+ <path style="stroke:#00f;stroke-width:4;fill:none" d="M16,16h32v32h-32v32v32h32v-32h32v32h32v-32v-32h-32v-32h32"/>
+ <path style="stroke:#000;stroke-width:2;fill:none" d="M32,32v16h16v-16h16h16v16h-16v16h16v16h-16h-16v-16h-16v16v16h16v16h-16v16v16h16v-16h16v16h16v-16v-16h-16v-16h16h16h16v16h-16v16v16h16v-16h16v16h16v-16v-16h-16v-16h16v-16v-16h-16v16h-16h-16v-16h16v-16h-16v-16h16h16v16h16v-16"/>
+</svg>
